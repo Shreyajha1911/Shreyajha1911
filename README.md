@@ -30,7 +30,7 @@ Currently focused on:
   <img src="https://skillicons.dev/icons?i=python,sql,Apache Spark,pandas,scikit-leran,GeoPandas,powerbi,tableau,dax,apache nifi,minio,esp32,arduino,thingspeak" />
 </p>
 
-## 🟡 Tech Stack
+## 🟢 Tech Stack
 
 **Data & Analytics**
 `Python` `SQL` `Apache Spark` `Pandas` `scikit-learn` `GeoPandas`
@@ -44,7 +44,7 @@ Currently focused on:
 ---
 
 
-## 🔵 Projects
+## 🟢 Projects
 
 | Project | Description | Stack |
 |---|---|---|
