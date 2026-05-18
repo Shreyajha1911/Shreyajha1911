@@ -1,16 +1,7 @@
-<div align="center">
-
-# ⚡ SHREYA JHA
-
-### `Data Science` · `Analytics` · `IoT` · `ML Pipelines`
-
-*// from hardware that senses the world to pipelines that make sense of it*
-
-**MSc Business Analytics & Big Data · IE Business School, Madrid**
-
-**Data Analyst · Data Scientist · Open to Roles in Europe 🌍**
-
-</div>
+<p align="center">
+  <img src="./<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/c7b46847-9eff-4e9e-bc87-50324e0e0542" />
+banner.png" />
+</p>
 
 ---
 
