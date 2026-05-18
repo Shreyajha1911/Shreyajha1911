@@ -1,6 +1,8 @@
 <div align="center">
-<svg viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg" width="900">
-  <defs>
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:111a14,100:0d1f0f&height=200&section=header&text=Shreya%20Jha&fontSize=52&fontColor=00ff88&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%C2%B7%20Analytics%20%C2%B7%20IoT%20%C2%B7%20ML%20Pipelines&descAlignY=58&descSize=16&descColor=4a9e6b)
+
+</div>
     <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" style="stop-color:#0a0a0a"/>
       <stop offset="40%" style="stop-color:#111a14"/>
