@@ -2,6 +2,12 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:111a14,100:0d1f0f&height=200&section=header&text=Shreya%20Jha&fontSize=52&fontColor=00ff88&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%C2%B7%20Analytics%20%C2%B7%20IoT%20%C2%B7%20ML%20Pipelines&descAlignY=58&descSize=16&descColor=4a9e6b)
 
+**MSc Business Analytics & Big Data · IE Business School, Madrid**
+
+Data Analyst &nbsp;·&nbsp; Data Scientist &nbsp;·&nbsp; Open to Roles in Europe
+
+*// from hardware that senses the world to pipelines that make sense of it*
+
 </div>
     <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" style="stop-color:#0a0a0a"/>
