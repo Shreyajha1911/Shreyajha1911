@@ -2,6 +2,10 @@
   <img src="./banner .png" alt="banner" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=C792EA&center=true&vCenter=true&width=700&lines=Data+Scientist;Analytics+Engineer;ML+Pipelines" />
+</p>
+
 ---
 
 ## 🟢 whoami
