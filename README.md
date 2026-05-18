@@ -26,9 +26,7 @@ Currently focused on:
 
 
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,Apache Spark,pandas,scikit-leran,GeoPandas,powerbi,tableau,dax,apache nifi,minio,esp32,arduino,thingspeak" />
-</p>
+
 
 ## 🟢 Tech Stack
 
