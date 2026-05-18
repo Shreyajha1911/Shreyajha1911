@@ -4,9 +4,8 @@
 
 **MSc Business Analytics & Big Data · IE Business School, Madrid**
 
-Data Analyst &nbsp;·&nbsp; Data Scientist &nbsp;·&nbsp; Open to Roles in Europe
+Data Analyst &nbsp;·&nbsp; Data Scientist &nbsp;·&nbsp
 
-*// from hardware that senses the world to pipelines that make sense of it*
 
 </div>
 
