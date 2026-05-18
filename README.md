@@ -1,10 +1,14 @@
-<p align="center">
-  <img src="./banner .png" alt="banner" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=C792EA&center=true&vCenter=true&width=700&lines=Data+Scientist;Analytics+Engineer;ML+Pipelines" />
-</p>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:111a14,100:0d1f0f&height=200&section=header&text=Shreya%20Jha&fontSize=52&fontColor=00ff88&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%C2%B7%20Analytics%20%C2%B7%20IoT%20%C2%B7%20ML%20Pipelines&descAlignY=58&descSize=16&descColor=4a9e6b)
+
+**MSc Business Analytics & Big Data · IE Business School, Madrid**
+
+Data Analyst &nbsp;·&nbsp; Data Scientist &nbsp;·&nbsp; Open to Roles in Europe
+
+*// from hardware that senses the world to pipelines that make sense of it*
+
+</div>
 
 ---
 
