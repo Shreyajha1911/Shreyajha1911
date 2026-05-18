@@ -8,13 +8,24 @@
 
 ---
 
-## 🟢 whoami
+# 🟢 whoami
 
-Electronics engineer turned data scientist. I spent my undergrad building IoT systems — sensors, microcontrollers, devices that stream live data to the cloud. Now I'm finishing my Master's at IE Business School in Madrid, working on everything from distributed Spark pipelines to sustainability analytics for national energy infrastructure.
+Electronics engineer turned data scientist.
 
-I like problems with real stakes. Grid capacity for EV rollouts, seismic risk zones, election results, retail revenue concentration — the kind of work where a bad analysis has actual consequences.
+I build analytics systems, ML pipelines, dashboards, and data-driven applications that solve real-world problems.
 
----
+Currently focused on:
+- Data Science
+- Analytics Engineering
+- ML Pipelines
+- Distributed Systems
+- IoT + AI
+
+# 🟡 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,sql,Apache Spark,pandas,scikit-leran,GeoPandas,powerbi,tableau,dax,apache nifi,minio,esp32,arduino,thingspeak" />
+</p>
 
 ## 🟡 Tech Stack
 
@@ -28,6 +39,18 @@ I like problems with real stakes. Grid capacity for EV rollouts, seismic risk zo
 `Apache NiFi` `MinIO` `ESP32` `Arduino` `ThingSpeak` `Git`
 
 ---
+
+<p align="center">
+  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+
+</p>
 
 ## 🔵 Projects
 
