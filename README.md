@@ -21,7 +21,7 @@ Currently focused on:
 - Distributed Systems
 - IoT + AI
 
-# 🟡 Tech Stack
+
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,sql,Apache Spark,pandas,scikit-leran,GeoPandas,powerbi,tableau,dax,apache nifi,minio,esp32,arduino,thingspeak" />
@@ -40,17 +40,6 @@ Currently focused on:
 
 ---
 
-<p align="center">
-  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-
-</p>
 
 ## 🔵 Projects
 
@@ -67,19 +56,14 @@ Currently focused on:
 
 ---
 
-## 🟣 GitHub Stats
+<p align="center">
 
-![Shreya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shreyajha1911&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyajha1911&layout=compact&theme=tokyonight&hide_border=true)
+<a href="https://www.linkedin.com/in/shreya-jha-a82605257/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
 
----
+<a href="mailto:shreya.jha@student.ie.edu">
+  <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+</a>
 
-## 🔴 Contact
-
-<div align="center">
-
-📍 Madrid &nbsp;·&nbsp; 🎓 Graduating July 2026 &nbsp;·&nbsp; 🌍 Ireland · Netherlands · beyond
-
-[LinkedIn](https://linkedin.com/in/shreya-jha-a82605257/) &nbsp;·&nbsp; [Email](mailto:shreya.jha@student.ie.edu)
-
-</div>
+</p>
